@@ -1,0 +1,2 @@
+# matematicheskoe-ozhidanie
+Математическое ожидание
